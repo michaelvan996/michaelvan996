@@ -9,11 +9,11 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  🎓 Master of Computer Science - <a href="#"><img src="![image](https://github.com/user-attachments/assets/81272908-b4b1-477f-824a-9a9ff0c2ab87)
+  🎓 Master in Computer Science - <a href="#"><img src="![image](https://github.com/user-attachments/assets/81272908-b4b1-477f-824a-9a9ff0c2ab87)
 " alt="UCB" title="UCB" align="center" width="150" height="75"/></a>
   <br>
   <br>
-  🎓 Bachelor of Computer Science, Cloud Computing - <a href="#"><img src="![image](https://github.com/user-attachments/assets/bb4b8144-5282-487d-a85e-d737e2258af4)
+  🎓 Bachelor in Computer Science, Cloud Computing - <a href="#"><img src="![image](https://github.com/user-attachments/assets/bb4b8144-5282-487d-a85e-d737e2258af4)
 " alt="UCB" title="UCB" align="center" width="150" height="75"/></a>
   <br>
   <br>
