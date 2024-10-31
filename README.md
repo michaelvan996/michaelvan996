@@ -18,11 +18,11 @@
   💻 I love to build performant application and design optimized architecture 💻
   <br>
 </p>
-<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/atmichaelvan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br>
 <div>
   <a href="https://github.com/michaelvan996">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvan996&layout=compact&langs_count=16&theme=dracula"/>
