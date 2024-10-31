@@ -9,7 +9,7 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  🎓 Master in Computer Science - <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="200" height="75"/></a>
+  🎓 Master in Computer Science - <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width=100% height=100%/></a>
   <br>
   <br>
   🎓 Bachelor in Computer Science, Cloud Computing - <a href="#"><img src="![image](https://github.com/user-attachments/assets/bb4b8144-5282-487d-a85e-d737e2258af4)
