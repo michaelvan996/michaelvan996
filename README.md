@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  [Send email to Michael](mailto:michaelvanmail@gmail.com?subject=Important%20Message&body=Hi%20Michael,%0A%0AI%20wanted%20to%20reach%20out%20to%20you%20about...)
+  <a href="mailto:michaelvanmail@gmail.com?subject=Important%20Message&body=Hi%20Michael,%0A%0AI%20wanted%20to%20reach%20out%20to%20you%20about...">Send email to Michael</a>
   <a href="mailto:michaelvanmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/atmichaelvan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
