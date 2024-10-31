@@ -9,7 +9,7 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  🎓 Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width=30% height=30%/></a>
+  🎓 Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width=25% height=25%/></a>
   <br>
   <br>
   🎓 Bachelor in Computer Science, Cloud Computing  <a href="#"><img src="valencia-college.png" alt="UCB" title="UCB" align="center" width=10% height=10%/></a>
