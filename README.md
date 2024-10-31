@@ -9,10 +9,10 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  🎓 Master in Computer Science - <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width=20% height=20%/></a>
+  🎓 Master in Computer Science - <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width=30% height=30%/></a>
   <br>
   <br>
-  🎓 Bachelor in Computer Science, Cloud Computing - <a href="#"><img src="valencia-college.png" alt="UCB" title="UCB" align="center" width=30% height=30%/></a>
+  🎓 Bachelor in Computer Science, Cloud Computing - <a href="#"><img src="valencia-college.png" alt="UCB" title="UCB" align="center" width=20% height=20%/></a>
   <br>
   <br>
   💻 I love to build performant application and design optimized architecture 💻
