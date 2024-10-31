@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/atmichaelvan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- <div>
-  <a href="https://github.com/michaelvan996">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvan996&layout=compact&langs_count=16&theme=dracula"/>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelvan996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
+<div>
+  <a href="https://github.com/HaoyL666">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyL666&layout=compact&langs_count=16&theme=dracula"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoyL666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
   <img align="center" alt="Coding" height="170" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 </div>
 
