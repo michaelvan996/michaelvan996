@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Michael Van, a Software Engineer 💻
+  Hi, I'm Michael Van, a Software Engineer 💻 <img align="center" height="25" src="<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>"/>
   <br>
   <br>
   <img align="center" height="25" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
