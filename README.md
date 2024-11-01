@@ -5,8 +5,9 @@
 </h1>
 
 <br>
+<img align="center" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjN3RsN2Fqa2tieTBxNzdmdXYzdzJwYzIwMHA4MWg1YXkybHNjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif"/>
 <p align="center">
-  Hi, I'm Michael Van, a Software Engineer 💻 <img align="center" height="25" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s4ZDE4Y3Q4cWN5dTZpNTV0aWh4bjc3dmRvbDZibXE2ejNrZ3p2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+  Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
   <img align="center" height="25" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
