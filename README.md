@@ -9,7 +9,7 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  <img align="center" height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvan996&layout=compact&langs_count=16&theme=dracula](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif)"/> Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
+  <img align="center" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
   <br>
   <br>
   🎓 Bachelor in Computer Science, Cloud Computing  <a href="#"><img src="valencia-college.png" alt="UCB" title="UCB" align="center" width="125" height="50"/></a>
