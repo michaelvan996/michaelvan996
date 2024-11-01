@@ -44,5 +44,5 @@
 
   </a>
 </p>
-![gitartwork](gitartwork.svg)
+
 
