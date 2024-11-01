@@ -9,7 +9,7 @@
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
   <br>
-  🎓 Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
+  <iframe src="https://giphy.com/embed/RpUbhWwuoiCA5q0Gkv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DeVryUniversity-keller-devry-dvu-RpUbhWwuoiCA5q0Gkv">via GIPHY</a></p>🎓 Master of Science in Computer Science  <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
   <br>
   <br>
   🎓 Bachelor in Computer Science, Cloud Computing  <a href="#"><img src="valencia-college.png" alt="UCB" title="UCB" align="center" width="125" height="50"/></a>
