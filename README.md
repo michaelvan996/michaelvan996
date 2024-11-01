@@ -5,7 +5,10 @@
 </h1>
 
 <br>
-<img align="center" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjN3RsN2Fqa2tieTBxNzdmdXYzdzJwYzIwMHA4MWg1YXkybHNjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif"/>
+<div align="center">
+  <img align="center" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjN3RsN2Fqa2tieTBxNzdmdXYzdzJwYzIwMHA4MWg1YXkybHNjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif"/>
+</div>
+
 <p align="center">
   Hi, I'm Michael Van, a Software Engineer 💻
   <br>
