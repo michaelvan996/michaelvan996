@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  Hi, I'm Michael Van, an Software Engineer 💻
+  Hi, I'm Michael Van, an Software Engineer <img align="center" height="25" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV0M2ViOXZ3Ym9vM2dudGg5NHc5MnJ1MWd4OHB6enZrMjJvZXlrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif"/>
   <br>
   <br>
   <img align="center" height="25" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science <a href="#"><img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50"/></a>
