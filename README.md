@@ -14,7 +14,7 @@
   <br>
   <br>
   <br>
-  <img align="center" height="35" width="35" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science <img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="230" height="50" /></a>
+  <img align="center" height="35" width="35" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Master of Science in Computer Science <img src="colorado-1.png" alt="UCB" title="UCB" align="center" width="250" height="50" /></a>
   <br>
   <br>
   <img align="center" height="35" width="35" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWthaWo5a2lud3V4cmxrZ3NpdDFmaHJ5aHR5NnpsY3ozY2NmMjZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif"/> Bachelor of Science in Computer Science <img src="valencia-college.png" alt="UCB" title="UCB" align="center" width="120" height="80"/></a>
